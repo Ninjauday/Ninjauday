@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hacking and cybersecurity    
 - 🌱 I’m currently learning Everything I can
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me / You dont need that
+- 📫 How to reach me / You don't need that
 
 <!---
 Ninjauday/Ninjauday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
